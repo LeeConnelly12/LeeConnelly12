@@ -4,7 +4,7 @@
 
 ### 📝 About me
 
-I’m an ambitious person with an interest in all things tech. I love creating and solving complex problems. I value clean and maintainable code, as well as writing tests for my code. Currently working as a web developer at [Acquire Digital](https://acquiredigital.com).
+As a web developer with over five years of commercial experience, I specialize in building scalable and reliable applications using Laravel and Vue.js. I am highly skilled in writing tests and take pride in producing high-quality code. When I'm not coding, you'll find me staying up to date on the latest technologies and trends in web development. Currently working as a web developer at [Acquire Digital](https://acquiredigital.com).
 
 ### 🚀Languages & Frameworks
 
